@@ -40,7 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\_shared\GlobalAssemblyInfo.cs">
-      <Link>[linked\GlobalAssemblyInfo.cs</Link>
+      <Link>[common]\GlobalAssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="IConnectionStringManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
