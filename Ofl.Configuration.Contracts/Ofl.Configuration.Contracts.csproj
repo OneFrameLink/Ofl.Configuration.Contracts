@@ -8,7 +8,7 @@
     <ProjectGuid>{F5F0FE7F-7BFB-44A3-9492-BF0E84D20F5A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ofl.Configuration.Contracts</RootNamespace>
+    <RootNamespace>Ofl.Configuration</RootNamespace>
     <AssemblyName>Ofl.Configuration.Contracts</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>

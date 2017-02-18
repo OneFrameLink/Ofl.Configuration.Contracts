@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace Ofl.Configuration.Contracts
+namespace Ofl.Configuration
 {
     public interface IConnectionStringManager
     {
